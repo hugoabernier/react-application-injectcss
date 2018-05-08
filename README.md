@@ -82,3 +82,5 @@ Sample SharePoint Framework application customiser injecting a custom CSS in the
 This sample illustrates the following concepts on top of the SharePoint Framework:
 
 * HTML manipulation
+
+<img src="https://telemetry.sharepointpnp.com/sp-dev-fx-extensions/samples/readme-template" />
